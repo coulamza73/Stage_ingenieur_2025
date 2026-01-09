@@ -1,0 +1,24 @@
+Résumé clustering K-Means – K=5 (COMPOSANTES PRINCIPALES)
+
+Dataset : DF_SITE_INDICATEURS
+Shape : (1591, 42)
+Nombre de PC utilisées : 37
+Standardisation utilisée : NON (données issues de l'ACP)
+
+MÉTRIQUES DE QUALITÉ :
+----------------------------------------
+Silhouette score : 0.2316
+Davies–Bouldin Index : 1.3084
+Calinski–Harabasz Score : 630.3938
+Inertie : 183088.1492
+Homogénéité intra-cluster : 4.1193
+Séparation inter-clusters : 15.9988
+Indice de Dunn : 0.0311
+
+DISTRIBUTION DES CLUSTERS :
+----------------------------------------
+   Cluster 0 : 706 sites (44.4%)
+   Cluster 1 : 105 sites (6.6%)
+   Cluster 2 : 317 sites (19.9%)
+   Cluster 3 : 336 sites (21.1%)
+   Cluster 4 : 127 sites (8.0%)

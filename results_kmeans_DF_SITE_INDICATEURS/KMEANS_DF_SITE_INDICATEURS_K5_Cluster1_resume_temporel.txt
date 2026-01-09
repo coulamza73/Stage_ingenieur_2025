@@ -1,0 +1,53 @@
+============================================================
+📊 RÉSUMÉ STATISTIQUE - KMEANS_DF_SITE_INDICATEURS_K5_Cluster1
+============================================================
+
+📈 INFORMATIONS GÉNÉRALES
+   • Nombre d'éléments analysés : 105
+   • Période d'analyse : 1 an (8760 heures)
+
+📅 DISTRIBUTION MENSUELLE
+   • Mois avec la plus forte part (Médiane) : December (0.098)
+   • Moyenne de l'IQR mensuel (Variabilité) : 0.1209
+
+   Détail (Médiane de la part annuelle) :
+      - January    : 0.0961 (IQR: 0.2981)
+      - February   : 0.0000 (IQR: 0.1849)
+      - March      : 0.0000 (IQR: 0.1550)
+      - April      : 0.0000 (IQR: 0.0000)
+      - May        : 0.0000 (IQR: 0.0000)
+      - June       : 0.0000 (IQR: 0.0000)
+      - July       : 0.0000 (IQR: 0.0000)
+      - August     : 0.0000 (IQR: 0.0000)
+      - September  : 0.0000 (IQR: 0.0000)
+      - October    : 0.0000 (IQR: 0.1810)
+      - November   : 0.0000 (IQR: 0.2872)
+      - December   : 0.0982 (IQR: 0.3446)
+
+⏰ DISTRIBUTION HORAIRE
+   • Heure de pic (Médiane) : 17h (0.0835)
+   • Moyenne de l'IQR horaire (Variabilité) : 0.03068
+
+   Détail (Médiane de la part annuelle) - Top 5 Heures :
+      - 17h--- : 0.08355 (IQR: 0.03972)
+      - 16h--- : 0.08312 (IQR: 0.07028)
+      - 18h--- : 0.07837 (IQR: 0.04097)
+      - 12h--- : 0.07690 (IQR: 0.06336)
+      - 15h--- : 0.06793 (IQR: 0.05516)
+
+🗓️ DISTRIBUTION JOURNALIÈRE
+   • Jour de pic (Médiane) : Mercredi (0.149)
+   • Moyenne de l'IQR journalier (Variabilité) : 0.0583
+
+   Détail (Médiane de la part annuelle) :
+      - Lundi      : 0.1472 (IQR: 0.0583)
+      - Mardi      : 0.1457 (IQR: 0.0392)
+      - Mercredi   : 0.1487 (IQR: 0.0416)
+      - Jeudi      : 0.1484 (IQR: 0.0506)
+      - Vendredi   : 0.1312 (IQR: 0.0552)
+      - Samedi     : 0.1362 (IQR: 0.1284)
+      - Dimanche   : 0.1453 (IQR: 0.0347)
+
+============================================================
+FIN DU RÉSUMÉ STATISTIQUE
+============================================================
