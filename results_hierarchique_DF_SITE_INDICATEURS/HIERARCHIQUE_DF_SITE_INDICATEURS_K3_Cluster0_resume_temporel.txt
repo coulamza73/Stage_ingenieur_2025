@@ -1,0 +1,53 @@
+============================================================
+📊 RÉSUMÉ STATISTIQUE - HIERARCHIQUE_DF_SITE_INDICATEURS_K3_Cluster0
+============================================================
+
+📈 INFORMATIONS GÉNÉRALES
+   • Nombre d'éléments analysés : 839
+   • Période d'analyse : 1 an (8760 heures)
+
+📅 DISTRIBUTION MENSUELLE
+   • Mois avec la plus forte part (Médiane) : August (0.178)
+   • Moyenne de l'IQR mensuel (Variabilité) : 0.0308
+
+   Détail (Médiane de la part annuelle) :
+      - January    : 0.0265 (IQR: 0.0218)
+      - February   : 0.0341 (IQR: 0.0241)
+      - March      : 0.0542 (IQR: 0.0291)
+      - April      : 0.0790 (IQR: 0.0205)
+      - May        : 0.1210 (IQR: 0.0317)
+      - June       : 0.1198 (IQR: 0.0257)
+      - July       : 0.1555 (IQR: 0.0446)
+      - August     : 0.1778 (IQR: 0.0817)
+      - September  : 0.0976 (IQR: 0.0191)
+      - October    : 0.0637 (IQR: 0.0273)
+      - November   : 0.0386 (IQR: 0.0256)
+      - December   : 0.0210 (IQR: 0.0192)
+
+⏰ DISTRIBUTION HORAIRE
+   • Heure de pic (Médiane) : 16h (0.1203)
+   • Moyenne de l'IQR horaire (Variabilité) : 0.01314
+
+   Détail (Médiane de la part annuelle) - Top 5 Heures :
+      - 16h--- : 0.12033 (IQR: 0.02928)
+      - 12h--- : 0.11070 (IQR: 0.02536)
+      - 17h--- : 0.10893 (IQR: 0.02040)
+      - 11h--- : 0.10094 (IQR: 0.02352)
+      - 15h--- : 0.09888 (IQR: 0.02919)
+
+🗓️ DISTRIBUTION JOURNALIÈRE
+   • Jour de pic (Médiane) : Samedi (0.193)
+   • Moyenne de l'IQR journalier (Variabilité) : 0.0233
+
+   Détail (Médiane de la part annuelle) :
+      - Lundi      : 0.1259 (IQR: 0.0229)
+      - Mardi      : 0.1387 (IQR: 0.0158)
+      - Mercredi   : 0.1385 (IQR: 0.0152)
+      - Jeudi      : 0.1268 (IQR: 0.0177)
+      - Vendredi   : 0.1511 (IQR: 0.0231)
+      - Samedi     : 0.1930 (IQR: 0.0518)
+      - Dimanche   : 0.1248 (IQR: 0.0167)
+
+============================================================
+FIN DU RÉSUMÉ STATISTIQUE
+============================================================

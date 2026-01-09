@@ -1,0 +1,31 @@
+RÉSUMÉ CLUSTERING HIÉRARCHIQUE
+==================================================
+
+Dataset : DF_SITE_INDICATEURS
+Nombre de clusters : 5
+Méthode de liaison : ward
+Taille du dataset : (1591, 42)
+
+MÉTRIQUES DE QUALITÉ
+------------------------------
+Silhouette score : 0.2540
+Davies–Bouldin Index : 1.4786
+Calinski–Harabasz Score : 400.9132
+Corrélation moyenne intra-cluster : 0.4763
+
+DISTRIBUTION DES CLUSTERS
+------------------------------
+Cluster  0 :   83 flux (  5.22%)
+Cluster  1 :  756 flux ( 47.52%)
+Cluster  2 :  114 flux (  7.17%)
+Cluster  3 :  302 flux ( 18.98%)
+Cluster  4 :  336 flux ( 21.12%)
+
+TOTAL : 1591 flux
+
+FICHIERS GÉNÉRÉS
+------------------------------
+1. Dendrogramme : HIERARCHIQUE_DF_SITE_INDICATEURS_K5_dendrogramme.png
+2. Visualisations : HIERARCHIQUE_DF_SITE_INDICATEURS_K5_visualisations.png
+3. Fichiers clusters : HIERARCHIQUE_DF_SITE_INDICATEURS_K5_ClusterX.csv
+4. Ce résumé : HIERARCHIQUE_DF_SITE_INDICATEURS_K5_resume.txt
